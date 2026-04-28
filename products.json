@@ -1,0 +1,446 @@
+﻿{
+    "value":  [
+                  {
+                      "id":  30,
+                      "name":  "Nike Air Shoes",
+                      "description":  "Comfortable running shoes",
+                      "price":  2999.00,
+                      "stock":  48,
+                      "imageUrl":  "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+                      "categoryId":  1
+                  },
+                  {
+                      "id":  38,
+                      "name":  "Denim Jacket",
+                      "description":  "Stylish blue denim jacket",
+                      "price":  1999.00,
+                      "stock":  44,
+                      "imageUrl":  "https://images.unsplash.com/photo-1520975916090-3105956dac38",
+                      "categoryId":  2
+                  },
+                  {
+                      "id":  37,
+                      "name":  "Formal Leather Shoes",
+                      "description":  "Premium office wear shoes",
+                      "price":  3999.00,
+                      "stock":  20,
+                      "imageUrl":  "https://images.unsplash.com/photo-1618354691373-d851c5c3a990",
+                      "categoryId":  1
+                  },
+                  {
+                      "id":  36,
+                      "name":  "Puma Sports Shoes",
+                      "description":  "Lightweight running shoes",
+                      "price":  2799.00,
+                      "stock":  35,
+                      "imageUrl":  "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519",
+                      "categoryId":  1
+                  },
+                  {
+                      "id":  35,
+                      "name":  "Laptop Backpack",
+                      "description":  "Waterproof travel backpack",
+                      "price":  899.00,
+                      "stock":  60,
+                      "imageUrl":  "https://images.unsplash.com/photo-1581605405669-fcdf81165afa",
+                      "categoryId":  4
+                  },
+                  {
+                      "id":  34,
+                      "name":  "Smart Watch",
+                      "description":  "Fitness smartwatch with heart rate monitor",
+                      "price":  1999.00,
+                      "stock":  25,
+                      "imageUrl":  "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b",
+                      "categoryId":  1
+                  },
+                  {
+                      "id":  43,
+                      "name":  "Women Handbag",
+                      "description":  "Trendy leather handbag",
+                      "price":  1799.00,
+                      "stock":  40,
+                      "imageUrl":  "https://images.unsplash.com/photo-1584917865442-de89df76afd3",
+                      "categoryId":  2
+                  },
+                  {
+                      "id":  33,
+                      "name":  "Women Summer Dress",
+                      "description":  "Elegant and light dress",
+                      "price":  1299.00,
+                      "stock":  30,
+                      "imageUrl":  "https://images.unsplash.com/photo-1496747611176-843222e1e57c",
+                      "categoryId":  2
+                  },
+                  {
+                      "id":  32,
+                      "name":  "Men Casual T-Shirt",
+                      "description":  "100% cotton t-shirt",
+                      "price":  599.00,
+                      "stock":  100,
+                      "imageUrl":  "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
+                      "categoryId":  2
+                  },
+                  {
+                      "id":  31,
+                      "name":  "Adidas Sneakers",
+                      "description":  "Stylish everyday sneakers",
+                      "price":  3499.00,
+                      "stock":  40,
+                      "imageUrl":  "https://images.unsplash.com/photo-1528701800489-20be3c62c9b8",
+                      "categoryId":  1
+                  },
+                  {
+                      "id":  39,
+                      "name":  "Hoodie Sweatshirt",
+                      "description":  "Warm winter hoodie",
+                      "price":  1499.00,
+                      "stock":  60,
+                      "imageUrl":  "https://images.unsplash.com/photo-1602810316498-ab67cf68c8e1",
+                      "categoryId":  2
+                  },
+                  {
+                      "id":  40,
+                      "name":  "Bluetooth Headphones",
+                      "description":  "Wireless over-ear headphones",
+                      "price":  2499.00,
+                      "stock":  30,
+                      "imageUrl":  "https://images.unsplash.com/photo-1518441902110-0c8d42c3f6a1",
+                      "categoryId":  1
+                  },
+                  {
+                      "id":  41,
+                      "name":  "Gaming Mouse",
+                      "description":  "High precision RGB mouse",
+                      "price":  1299.00,
+                      "stock":  50,
+                      "imageUrl":  "https://images.unsplash.com/photo-1587202372775-a0a2b9fd77f2",
+                      "categoryId":  1
+                  },
+                  {
+                      "id":  42,
+                      "name":  "Mechanical Keyboard",
+                      "description":  "RGB gaming keyboard",
+                      "price":  3499.00,
+                      "stock":  25,
+                      "imageUrl":  "https://images.unsplash.com/photo-1517336714731-489689fd1ca8",
+                      "categoryId":  1
+                  },
+                  {
+                      "id":  44,
+                      "name":  "Sunglasses",
+                      "description":  "UV protection stylish glasses",
+                      "price":  899.00,
+                      "stock":  70,
+                      "imageUrl":  "https://images.unsplash.com/photo-1511499767150-a48a237f0083",
+                      "categoryId":  2
+                  },
+                  {
+                      "id":  45,
+                      "name":  "Smartphone Stand",
+                      "description":  "Adjustable mobile holder",
+                      "price":  299.00,
+                      "stock":  100,
+                      "imageUrl":  "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04",
+                      "categoryId":  4
+                  },
+                  {
+                      "id":  46,
+                      "name":  "Travel Suitcase",
+                      "description":  "Hard shell luggage bag",
+                      "price":  4999.00,
+                      "stock":  15,
+                      "imageUrl":  "https://images.unsplash.com/photo-1581605405669-fcdf81165afa",
+                      "categoryId":  4
+                  },
+                  {
+                      "id":  47,
+                      "name":  "Office Chair",
+                      "description":  "Ergonomic comfortable chair",
+                      "price":  6999.00,
+                      "stock":  10,
+                      "imageUrl":  "https://images.unsplash.com/photo-1582582494700-7b3d7c5cde1d",
+                      "categoryId":  4
+                  },
+                  {
+                      "id":  48,
+                      "name":  "Wall Clock",
+                      "description":  "Minimal modern clock",
+                      "price":  799.00,
+                      "stock":  80,
+                      "imageUrl":  "https://images.unsplash.com/photo-1518544801976-3e188745e0b0",
+                      "categoryId":  4
+                  },
+                  {
+                      "id":  49,
+                      "name":  "Table Lamp",
+                      "description":  "Warm LED study lamp",
+                      "price":  1299.00,
+                      "stock":  55,
+                      "imageUrl":  "https://images.unsplash.com/photo-1507473885765-e6ed057f782c",
+                      "categoryId":  4
+                  },
+                  {
+                      "id":  21,
+                      "name":  "Gaming Mouse",
+                      "description":  "High precision RGB mouse",
+                      "price":  1299.00,
+                      "stock":  50,
+                      "imageUrl":  "https://images.unsplash.com/photo-1587202372775-a0a2b9fd77f2",
+                      "categoryId":  1
+                  },
+                  {
+                      "id":  22,
+                      "name":  "Mechanical Keyboard",
+                      "description":  "RGB gaming keyboard",
+                      "price":  3499.00,
+                      "stock":  25,
+                      "imageUrl":  "https://images.unsplash.com/photo-1517336714731-489689fd1ca8",
+                      "categoryId":  1
+                  },
+                  {
+                      "id":  23,
+                      "name":  "Women Handbag",
+                      "description":  "Trendy leather handbag",
+                      "price":  1799.00,
+                      "stock":  40,
+                      "imageUrl":  "https://images.unsplash.com/photo-1584917865442-de89df76afd3",
+                      "categoryId":  2
+                  },
+                  {
+                      "id":  24,
+                      "name":  "Sunglasses",
+                      "description":  "UV protection stylish glasses",
+                      "price":  899.00,
+                      "stock":  70,
+                      "imageUrl":  "https://images.unsplash.com/photo-1511499767150-a48a237f0083",
+                      "categoryId":  2
+                  },
+                  {
+                      "id":  19,
+                      "name":  "Hoodie Sweatshirt",
+                      "description":  "Warm winter hoodie",
+                      "price":  1499.00,
+                      "stock":  58,
+                      "imageUrl":  "https://images.unsplash.com/photo-1602810316498-ab67cf68c8e1",
+                      "categoryId":  2
+                  },
+                  {
+                      "id":  26,
+                      "name":  "Travel Suitcase",
+                      "description":  "Hard shell luggage bag",
+                      "price":  4999.00,
+                      "stock":  15,
+                      "imageUrl":  "https://images.unsplash.com/photo-1581605405669-fcdf81165afa",
+                      "categoryId":  4
+                  },
+                  {
+                      "id":  27,
+                      "name":  "Office Chair",
+                      "description":  "Ergonomic comfortable chair",
+                      "price":  6999.00,
+                      "stock":  10,
+                      "imageUrl":  "https://images.unsplash.com/photo-1582582494700-7b3d7c5cde1d",
+                      "categoryId":  4
+                  },
+                  {
+                      "id":  28,
+                      "name":  "Wall Clock",
+                      "description":  "Minimal modern clock",
+                      "price":  799.00,
+                      "stock":  80,
+                      "imageUrl":  "https://images.unsplash.com/photo-1518544801976-3e188745e0b0",
+                      "categoryId":  4
+                  },
+                  {
+                      "id":  29,
+                      "name":  "Table Lamp",
+                      "description":  "Warm LED study lamp",
+                      "price":  1299.00,
+                      "stock":  55,
+                      "imageUrl":  "https://images.unsplash.com/photo-1507473885765-e6ed057f782c",
+                      "categoryId":  4
+                  },
+                  {
+                      "id":  25,
+                      "name":  "Smartphone Stand",
+                      "description":  "Adjustable mobile holder",
+                      "price":  299.00,
+                      "stock":  100,
+                      "imageUrl":  "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04",
+                      "categoryId":  4
+                  },
+                  {
+                      "id":  13,
+                      "name":  "Women Summer Dress",
+                      "description":  "Elegant and light dress",
+                      "price":  1299.00,
+                      "stock":  30,
+                      "imageUrl":  "https://images.unsplash.com/photo-1496747611176-843222e1e57c",
+                      "categoryId":  2
+                  },
+                  {
+                      "id":  10,
+                      "name":  "Nike Air Shoes",
+                      "description":  "Comfortable running shoes",
+                      "price":  2999.00,
+                      "stock":  50,
+                      "imageUrl":  "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+                      "categoryId":  1
+                  },
+                  {
+                      "id":  11,
+                      "name":  "Adidas Sneakers",
+                      "description":  "Stylish everyday sneakers",
+                      "price":  3499.00,
+                      "stock":  40,
+                      "imageUrl":  "https://images.unsplash.com/photo-1528701800489-20be3c62c9b8",
+                      "categoryId":  1
+                  },
+                  {
+                      "id":  12,
+                      "name":  "Men Casual T-Shirt",
+                      "description":  "100% cotton t-shirt",
+                      "price":  599.00,
+                      "stock":  100,
+                      "imageUrl":  "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
+                      "categoryId":  2
+                  },
+                  {
+                      "id":  14,
+                      "name":  "Smart Watch",
+                      "description":  "Fitness smartwatch with heart rate monitor",
+                      "price":  1999.00,
+                      "stock":  25,
+                      "imageUrl":  "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b",
+                      "categoryId":  1
+                  },
+                  {
+                      "id":  15,
+                      "name":  "Laptop Backpack",
+                      "description":  "Waterproof travel backpack",
+                      "price":  899.00,
+                      "stock":  60,
+                      "imageUrl":  "https://images.unsplash.com/photo-1581605405669-fcdf81165afa",
+                      "categoryId":  4
+                  },
+                  {
+                      "id":  16,
+                      "name":  "Puma Sports Shoes",
+                      "description":  "Lightweight running shoes",
+                      "price":  2799.00,
+                      "stock":  35,
+                      "imageUrl":  "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519",
+                      "categoryId":  1
+                  },
+                  {
+                      "id":  17,
+                      "name":  "Formal Leather Shoes",
+                      "description":  "Premium office wear shoes",
+                      "price":  3999.00,
+                      "stock":  20,
+                      "imageUrl":  "https://images.unsplash.com/photo-1618354691373-d851c5c3a990",
+                      "categoryId":  1
+                  },
+                  {
+                      "id":  18,
+                      "name":  "Denim Jacket",
+                      "description":  "Stylish blue denim jacket",
+                      "price":  1999.00,
+                      "stock":  45,
+                      "imageUrl":  "https://images.unsplash.com/photo-1520975916090-3105956dac38",
+                      "categoryId":  2
+                  },
+                  {
+                      "id":  20,
+                      "name":  "Bluetooth Headphones",
+                      "description":  "Wireless over-ear headphones",
+                      "price":  2499.00,
+                      "stock":  30,
+                      "imageUrl":  "https://images.unsplash.com/photo-1518441902110-0c8d42c3f6a1",
+                      "categoryId":  1
+                  },
+                  {
+                      "id":  8,
+                      "name":  "Smart Watch",
+                      "description":  "Fitness smartwatch with heart rate monitor",
+                      "price":  1999.00,
+                      "stock":  25,
+                      "imageUrl":  "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b",
+                      "categoryId":  1
+                  },
+                  {
+                      "id":  6,
+                      "name":  "Men Casual T-Shirt",
+                      "description":  "100% cotton t-shirt",
+                      "price":  599.00,
+                      "stock":  100,
+                      "imageUrl":  "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
+                      "categoryId":  2
+                  },
+                  {
+                      "id":  7,
+                      "name":  "Women Summer Dress",
+                      "description":  "Elegant and light dress",
+                      "price":  1299.00,
+                      "stock":  30,
+                      "imageUrl":  "https://images.unsplash.com/photo-1496747611176-843222e1e57c",
+                      "categoryId":  2
+                  },
+                  {
+                      "id":  5,
+                      "name":  "Adidas Sneakers",
+                      "description":  "Stylish everyday sneakers",
+                      "price":  3499.00,
+                      "stock":  40,
+                      "imageUrl":  "https://images.unsplash.com/photo-1528701800489-20be3c62c9b8",
+                      "categoryId":  1
+                  },
+                  {
+                      "id":  4,
+                      "name":  "Nike Air Shoes",
+                      "description":  "Comfortable running shoes",
+                      "price":  2999.00,
+                      "stock":  50,
+                      "imageUrl":  "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+                      "categoryId":  1
+                  },
+                  {
+                      "id":  9,
+                      "name":  "Laptop Backpack",
+                      "description":  "Waterproof travel backpack",
+                      "price":  899.00,
+                      "stock":  60,
+                      "imageUrl":  "https://images.unsplash.com/photo-1581605405669-fcdf81165afa",
+                      "categoryId":  4
+                  },
+                  {
+                      "id":  3,
+                      "name":  "Clean Code Book",
+                      "description":  "By Robert C. Martin",
+                      "price":  799.00,
+                      "stock":  30,
+                      "imageUrl":  null,
+                      "categoryId":  3
+                  },
+                  {
+                      "id":  2,
+                      "name":  "Cotton T-Shirt",
+                      "description":  "Premium 100% cotton",
+                      "price":  599.00,
+                      "stock":  200,
+                      "imageUrl":  null,
+                      "categoryId":  2
+                  },
+                  {
+                      "id":  1,
+                      "name":  "Wireless Headphones",
+                      "description":  "Noise-cancelling headphones",
+                      "price":  2999.00,
+                      "stock":  50,
+                      "imageUrl":  null,
+                      "categoryId":  1
+                  }
+              ],
+    "Count":  49
+}
