@@ -17,11 +17,22 @@ coverage/
 
 # Local environment files
 *.local
+.env
+.env.*
+!.env.example
+
+# Cache and temp files
+.cache/
+.eslintcache
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
 
 # Editor and IDE files
 .vscode/
 .idea/
-.DS_Store
 *.suo
 *.ntvs*
 *.njsproj
