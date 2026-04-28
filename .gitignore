@@ -1,0 +1,53 @@
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependency and build outputs
+node_modules/
+dist/
+dist-ssr/
+target/
+build/
+coverage/
+
+# Local environment files
+*.local
+
+# Editor and IDE files
+.vscode/
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Backend-specific generated files
+/backend/HELP.md
+/backend/.mvn/wrapper/maven-wrapper.jar
+/backend/.apt_generated/
+/backend/.classpath
+/backend/.factorypath
+/backend/.project
+/backend/.settings/
+/backend/.springBeans
+/backend/.sts4-cache/
+/backend/*.iws
+/backend/*.iml
+/backend/*.ipr
+/backend/nbproject/private/
+/backend/nbbuild/
+/backend/nbdist/
+/backend/.nb-gradle/
+
+# Frontend-specific generated files
+/frontend/node_modules/
+/frontend/dist/
+/frontend/dist-ssr/
+/frontend/*.local
